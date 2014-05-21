@@ -1,4 +1,4 @@
-package com.justinjap.hw01.samples;
+package com.justinjap.c01.homework;
 
 public class ApproximatePi {
 
