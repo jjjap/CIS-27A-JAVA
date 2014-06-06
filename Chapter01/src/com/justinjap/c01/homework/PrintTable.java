@@ -1,3 +1,7 @@
+/**
+ * @author Justin Jap
+ */
+
 package com.justinjap.c01.homework;
 
 public class PrintTable {
